@@ -32,6 +32,7 @@ Final Insights
 
 Builded an LSTM model to predict Powergrid’s stock price based on past data.
 The predictions follow the actual trend well, but exact stock price movements are challenging to forecast.
+
 Key Learnings:
 LSTM models work well for time-series forecasting but require large datasets.
 Stock market trends depend on multiple external factors like economic events, policies, and global influences, which aren't included in the model.
