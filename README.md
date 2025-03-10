@@ -37,3 +37,35 @@ Key Learnings:
 LSTM models work well for time-series forecasting but require large datasets.
 Stock market trends depend on multiple external factors like economic events, policies, and global influences, which aren't included in the model.
 Performance can be improved by adding technical indicators, macro-economic data, or attention mechanisms.
+
+1. Future Price Prediction
+📌 "What will be the future closing price of Powergrid stock?"
+
+Using LSTM, the model aimed to predict the next-day stock price based on historical trends.
+Investors use this information for decision-making on buying, holding, or selling stocks.
+2. Trend Identification
+📌 "Is Powergrid stock in an uptrend, downtrend, or stable phase?"
+
+The model analyzed past price patterns to recognize whether the stock was experiencing bullish (uptrend) or bearish (downtrend) movements.
+Helps traders decide if they should enter or exit a position.
+3. Volatility Analysis
+📌 "How volatile is Powergrid’s stock, and what is the level of risk?"
+
+By examining historical fluctuations in stock prices, investors can assess risk.
+High volatility signals high risk but also high reward opportunities.
+4. Support & Resistance Levels
+📌 "What are the key support and resistance levels?"
+
+Identifying price levels where the stock historically bounces back (support) or faces resistance (sellers take control) helps traders set stop-loss and take-profit levels.
+5. Impact of Market Trends
+📌 "How do macroeconomic trends and industry factors affect Powergrid’s stock?"
+
+If external events (interest rates, government policies, or energy sector trends) influence stock movements, these patterns could be integrated into future models.
+6. Trading Strategy Optimization
+📌 "Can we automate trading strategies based on predicted trends?"
+
+If predictions show consistent accuracy, they could be integrated into algorithmic trading models for automated buying/selling decisions.
+7. Comparison with Benchmarks
+📌 "How does Powergrid’s stock perform compared to market indices like NIFTY 50 or sectoral indices?"
+
+Helps investors understand relative strength and decide if it's better to invest in Powergrid or other stocks.
