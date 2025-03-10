@@ -29,7 +29,8 @@ Made future stock trend predictions.
 Visualized actual vs. predicted trends.
 
 Final Insights
-The notebook builds an LSTM model to predict Powergrid’s stock price based on past data.
+
+Builded an LSTM model to predict Powergrid’s stock price based on past data.
 The predictions follow the actual trend well, but exact stock price movements are challenging to forecast.
 Key Learnings:
 LSTM models work well for time-series forecasting but require large datasets.
